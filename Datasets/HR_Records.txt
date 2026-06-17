@@ -1,0 +1,11 @@
+EmployeeID	EmployeeName	Department	Email	PhoneNumber	Designation	JoiningDate	ManagerName	LeaveBalance	PayrollStatus	SalaryBand	Location	EmploymentType	HRComments
+EMP101	Ramesh Kumar	IT	ramesh.kumar@company.com	9876543210	Software Engineer	15-01-2023	Ganesh Patil	12	Active	L2	Bangalore	Full-Time	Working on AI automation project
+EMP102	Ganesh Patil	HR	ganesh.patil@company.com	9876543211	HR Manager	20-06-2021	Suresh Rao	18	Active	L4	Hyderabad	Full-Time	Handles payroll approvals
+EMP103	Priya Sharma	Finance	priya.sharma@company.com	9876543212	Financial Analyst	10-03-2022	Kavita Nair	10	Active	L3	Pune	Full-Time	Manages quarterly reports
+EMP104	Suresh Rao	Operations	suresh.rao@company.com	9876543213	Operations Lead	05-11-2020	Anand Mehta	20	Active	L5	Chennai	Full-Time	Supervises regional operations
+EMP105	Kavita Nair	Marketing	kavita.nair@company.com	9876543214	Marketing Specialist	12-02-2024	Neha Verma	9	Active	L2	Mumbai	Full-Time	Handling digital campaigns
+EMP106	Arjun Singh	IT	arjun.singh@company.com	9876543215	DevOps Engineer	01-08-2023	Ramesh Kumar	14	Active	L3	Bangalore	Full-Time	Managing cloud deployments
+EMP107	Neha Verma	HR	neha.verma@company.com	9876543216	HR Executive	18-07-2022	Ganesh Patil	11	Active	L2	Delhi	Full-Time	Employee onboarding support
+EMP108	Vikram Joshi	Finance	vikram.joshi@company.com	9876543217	Accounts Executive	25-09-2021	Priya Sharma	7	Active	L2	Pune	Contract	Payroll processing support
+EMP109	Deepa Reddy	IT	deepa.reddy@company.com	9876543218	Data Engineer	09-01-2024	Arjun Singh	15	Active	L3	Bangalore	Full-Time	Working on enterprise data platform
+EMP110	Anand Mehta	Management	anand.mehta@company.com	9876543219	Delivery Manager	15-04-2019	CEO Office	22	Active	L6	Hyderabad	Full-Time	Oversees enterprise AI programs
